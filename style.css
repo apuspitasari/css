@@ -1,0 +1,33 @@
+p {
+    color: brown;
+}
+
+b {
+    font-size: 50px;
+}
+
+i {
+    font-family: cursive;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    color: chartreuse;
+}
+
+h3 {
+    color: crimson;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h4 {
+    box-shadow: 5px 5px 15px 5px #000000;
+}
+
+h5 {
+    text-shadow: 2px 2px 2px #1AFE37;
+}
